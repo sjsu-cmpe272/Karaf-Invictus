@@ -24,8 +24,8 @@ Author:
 */
 
 ini_set('display_errors', 1);
-require_once('backfunc.php');
-include 'keys.php';
+require_once('TwitterBackFunc.php');
+include 'AuthorizationKeys.php';
 
 $action = "Action1";
 
