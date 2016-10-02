@@ -12,7 +12,7 @@
 
 <h2>ReTwitter</h2>
 
-<form method="post" action="retwitterapi.php">
+<form method="post" action="TwitterAPIs.php">
 <br><br>
 
 <p>Actions:</p>
