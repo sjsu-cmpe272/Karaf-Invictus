@@ -1,7 +1,7 @@
 <?php
 ini_set('display_errors', 1);
-require_once('backfunc.php');
-include 'keys.php';
+require_once('TwitterBackFunc.php');
+include 'AuthorizationKeys.php';
 
 //Action 1: Implemented by Anvit Saxena
 function getTimeline($settings, $name)
