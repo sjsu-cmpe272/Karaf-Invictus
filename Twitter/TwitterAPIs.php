@@ -236,6 +236,10 @@ foreach($string as $items)
    }
 }
 
+// Data received from HTML file 
+// Action will decide type of API call.
+// nameX, messageX, userIDX are input parameters for APIs. 
+
 $action = $_POST["taction"];
 switch($action) 
 {
